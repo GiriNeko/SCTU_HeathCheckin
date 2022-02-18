@@ -151,7 +151,7 @@ checkin_data['f12']=''
 checkin_data['fyy12']=''
 checkin_data['f14']=''
 checkin_data['tj']=''
-
+checkin_data['z11']=''
 
 
 rescheckin = r.post(url=checkinurl,data=checkin_data,headers=headers2)
